@@ -1,0 +1,19 @@
+search french
+add ~/Music
+colorscheme draculaedit
+colorscheme green
+set status_display_program=/usr/local/bin/cmus-notify
+set repeat_current=0
+set repeat_current=1
+set repeat=0
+set repeat_current=trye
+set repeat=true
+set repeat_current=true
+set repeat_current true
+colorscheme dracula
+colorscheme solarized-dark
+colorscheme night
+colorscheme gruvbox
+colorscheme cyan
+colorscheme amazon
+add ~/Music/
